@@ -1,1 +1,2 @@
-s is my second text file
+This is my second text file
+I want to check the SCM trigger function working in jenkins after this line been added.
